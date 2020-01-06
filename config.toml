@@ -34,6 +34,10 @@ publishDir = "docs"
     url = "/"
     weight = 1
 [[menu.main]]
+    name = "services"
+    url = "/service/"
+    weight = 2
+[[menu.main]]
     name = "blog"
     url = "/post/"
     weight = 5
