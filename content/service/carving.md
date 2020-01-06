@@ -22,5 +22,5 @@ The tools I use are the following:
  - Morakniv 163 Hook Knife
  - Morakniv 164 Hook Knife
 
-You can ready more about how I keep my tools sharp in the [sharpening](service/sharpening/)
+You can ready more about how I keep my tools sharp in the [sharpening](/service/sharpening)
 section.
