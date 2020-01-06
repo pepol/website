@@ -18,7 +18,7 @@ publishDir = "docs"
 
     showSubheader = true
     showServices = true
-    showRecentWorks = true
+    showRecentWorks = false
     showDownload = false
     showClients = false
 
