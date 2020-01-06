@@ -1,4 +1,4 @@
-baseURL = "https://polacik.org"
+baseURL = "https://polacik.org/"
 languageCode = "en-uk"
 title = "Peter Polacik - Freelancer and Woodworker"
 theme = "hugo-initio"
