@@ -1,86 +1,79 @@
 baseURL = "https://polacik.org/"
 languageCode = "en-uk"
-defaultContentLanguage = "en"
 title = "Peter Polacik - Freelancer and Woodworker"
-theme = "hugo-material-blog"
+theme = "hugo-initio"
 publishDir = "docs"
 
-paginate = 3
-paginatePath = "page"
-
-copyright = "Copyright (c) 2020 Peter Polacik"
-
-[permalinks]
-    post = "/:year/:month/:title/"
-
-# English
-[languages.en]
-    languageName = "English"
-
-    # Main menu
-    [[languages.en.menu.main]]
-        url = "/"
-        name = "Home"
-        weight = 1
-
-    # Footer menu 1
-    [[languages.en/menu.footer1]]
-        url = "#"
-        name = "Service N"
-        weight = 1
-
-    # Footer menu 2
-    [[languages.en.menu.footer2]]
-        url = "/"
-        name = "Home"
-        weight = 1
-    [[languages.en.menu.footer2]]
-        url = "/about/"
-        name = "About"
-        weight = 2
-
-    # Include menus in footer
-    [[languages.en.params.footer_menus]]
-        name = "Services"
-        menu = "footer2"
-    [[languages.en.params.footer_menus]]
-        name = "Links"
-        menu = "footer1"
-
-# Slovak
-[languages.sk]
-    languageName = "Slovenčina"
-
-    # Main menu
-    [[languages.sk.menu.main]]
-        url = "/sk/"
-        name = "Domov"
-        weight = 1
-
-    # Footer menu 1
-    [[languages.sk.menu.footer1]]
-        url = "#"
-        name = "Služba N"
-        weight = 1
-
-    # Footer menu 2
-    [[languages.sk.menu.footer2]]
-        url = "/sk/"
-        name = "Domov"
-        weight = 1
-    [[languages.sk.menu.footer2]]
-        url = "/about/"
-        name = "O mne"
-        weight = 2
-
-    # Include menus in footer
-    [[languages.sk.params.footer_menus]]
-        name = "Služby"
-        menu = "footer2"
-    [[languages.sk.params.footer_menus]]
-        name = "Odkazy"
-        menu = "footer1"
-
 [params]
-    # Display post summaries instead of content in list templates (default: true)
-    # truncate = false
+    name = "Peter Polacik"
+    description = "Freelancer and Woodworker"
+    email = "peter@polacik.org"
+    phone = "+421 951 167 893"
+    address = "I. Olbrachta 988/19, 028 01 Trstena, Slovakia"
+    year = 2020
+    avatar = "images/peter.jpg"
+    background = ""
+    favicon = "images/gt_favicon.png"
+    DateForm = "January 2, 2006"
+
+    showSubheader = true
+    showServices = true
+    showRecentWorks = false
+    showDownload = false
+    showClients = false
+
+    footerEnableContact = true
+    footerEnableFollowme = true
+    footerEnableTextWidget = false
+    footerEnableFormWidget = false
+
+    subheader = "I'm Peter, a software engineer during the week and a wood carver and shipwright at the weekends. This website is a personal record of my learning in the art of woodcarving, boatbuilding, as well as a showcase of my products and services I offer."
+
+[[menu.main]]
+    name = "home"
+    url = "/"
+    weight = 1
+[[menu.main]]
+    name = "services"
+    url = "/service/"
+    weight = 2
+[[menu.main]]
+    name = "blog"
+    url = "/post/"
+    weight = 5
+
+[[params.social]]
+	title = "facebook"
+	url = "https://www.facebook.com/polacikp"
+    icon = "fab fa-facebook-square"
+    footer = true
+    sharethis = true
+    network = "facebook"
+[[params.social]]
+	title = "instagram"
+	url = "https://www.instagram.com/pepol42"
+    icon = "fab fa-instagram"
+    footer = true
+    sharethis = false
+    network = ""
+[[params.social]]
+	title = "linkedin"
+	url = "https://www.linkedin.com/in/peterpolacik"
+    icon = "fab fa-linkedin"
+    footer = true
+    sharethis = true
+    network = "linkedin"
+[[params.social]]
+	title = "github"
+	url = "https://github.com/pepol"
+    icon = "fab fa-github"
+    footer = true
+    sharethis = false
+    network = ""
+[[params.social]]
+	title = "email"
+	url = "mailto:peter@polacik.org"
+    icon = "fas fa-envelope-square"
+    footer = true
+    sharethis = true
+    network = "email"
