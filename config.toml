@@ -24,7 +24,7 @@ copyright = "Copyright (c) 2020 Peter Polacik"
         weight = 1
 
     # Footer menu 1
-    [[languages.en.menu.footer1]]
+    [[languages.en/menu.footer1]]
         url = "#"
         name = "Service N"
         weight = 1
