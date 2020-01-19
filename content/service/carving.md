@@ -4,8 +4,9 @@ date: 2020-01-06T17:10:39Z
 draft: false
 ---
 
-I regularly carve wooden utensils, such as eating spoons, serving spoons,
-wooden bowls, and trays for serving food on.
+I carve wooden utensils (spoons, butter knives, bowls, ladles), serving trays,
+but also different figures (horses, owls, forest spirits) and anything else
+I can come up with.
 
 <!--more-->
 I mostly use birch, maple, and cherry wood as material.
