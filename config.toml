@@ -24,5 +24,5 @@ enableRobotsTXT = true
     github = "https://github.com/pepol"
     linkedin = "https://www.linkedin.com/in/peterpolacik"
     background_color_class = "bg-black"
-    featured_image = "/images/gohugo-default-sample-hero-image.jpg"
+    featured_image = "/images/header.jpg"
     recent_posts_number = 2
