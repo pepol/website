@@ -1,7 +1,6 @@
 ---
 title: "Sharpening"
-date: 2020-01-06T17:45:54Z
-draft: false
+type: page
 ---
 
 Due to woodworking requiring very sharp blades, I had to perfect my sharpening

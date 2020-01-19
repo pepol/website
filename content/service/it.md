@@ -1,7 +1,6 @@
 ---
 title: "IT Consulting"
-date: 2020-01-06T16:22:28Z
-draft: false
+type: page
 ---
 
 I provide consulting services within the IT field on freelance basis. My area

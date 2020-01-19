@@ -1,7 +1,6 @@
 ---
 title: "Woodcarving"
-date: 2020-01-06T17:10:39Z
-draft: false
+type: page
 ---
 
 I carve wooden utensils (spoons, butter knives, bowls, ladles), serving trays,
