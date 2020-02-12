@@ -1,5 +1,5 @@
 ---
-title: "Carving Cherry Leaf Tray: Part 1
+title: "Carving Cherry Leaf Tray: Part 1"
 date: 2020-02-12T15:30:00Z
 draft: true
 ---
