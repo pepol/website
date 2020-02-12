@@ -1,7 +1,7 @@
 baseURL = "https://polacik.org"
 languageCode = "en-uk"
 title = "Peter Polacik"
-copyright = "Copyright 2020 Peter Polacik <peter@polacik.org>"
+copyright = "Copyright Peter Polacik <peter@polacik.org>"
 theme = "ananke"
 publishDir = "docs"
 
