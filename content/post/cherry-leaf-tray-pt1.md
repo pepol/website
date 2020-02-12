@@ -1,7 +1,7 @@
 ---
 title: "Carving Cherry Leaf Tray: Part 1"
 date: 2020-02-12T15:30:00Z
-draft: true
+draft: false
 ---
 
 Over the last weekend, I got to go back to carving my Leaf Tray from Cherry
