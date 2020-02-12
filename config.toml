@@ -10,6 +10,7 @@ DefaultContentLanguage = "en"
 SectionPagesMenu = "main"
 Paginate = 10
 enableRobotsTXT = true
+show_reading_time = true
 
 [sitemap]
     changefreq = "monthly"
